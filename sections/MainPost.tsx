@@ -82,7 +82,7 @@ export default function MainPost({
                   })
                   : ""}
               </span>
-              <span>•</span>
+              <span>•••</span>
               <span>{post?.authors[0]?.name}</span>
             </div>
           </div>
